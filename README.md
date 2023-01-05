@@ -79,8 +79,9 @@
 
 ## Github Stats  
 <table><tr>
-</td><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 100%" /></div>  
-
+<td>![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=dark)</td>
+<td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=dark)</td>
+</table>
 <br/>  
 
 
