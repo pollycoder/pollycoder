@@ -1,6 +1,6 @@
 <table><tr>
-  <td> <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg" align="center" height="300"/>   </td>
-  <td> <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png" align="center" height="300"/>  </td>
+  <td> <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg" align="center" height="500"/>   </td>
+  <td> <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png" align="center" height="500" width="500"/>  </td>
 </table>
 
 ### Hey there, this is Polly Chau 🥰  
