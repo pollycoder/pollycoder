@@ -20,6 +20,7 @@
 
 <br/>  
 
+## My Visitors ![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
