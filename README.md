@@ -4,7 +4,8 @@
 
 
 ### Hey there, this is Polly Chau 🥰  
-  
+
+<b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
 - 🔭 I’m currently studying in Tsinghua University TEEP  
   
@@ -19,8 +20,6 @@
   
 
 <br/>  
-
-## My Visitors ![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
