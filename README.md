@@ -1,8 +1,7 @@
-<div align="left">
-<img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg" align="center" style="width: 50%" />
-</div> <div align="right">
-<img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png" align="center" style="width: 50%" />
-  
+<table><tr>
+  <td> ![polly's GitHub stats](https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png) </td>
+  <td> ![polly's GitHub stats](https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg) </td>
+</tr></table>
 
 ### Hey there, this is Polly Chau 🥰  
   
