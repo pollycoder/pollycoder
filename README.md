@@ -1,6 +1,6 @@
 <table><tr>
-  <td> ![polly's GitHub stats](https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png) </td>
-  <td> ![polly's GitHub stats](https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg) </td>
+  <td> <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg" align="center" />   </td>
+  <td> <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png" align="center" />  </td>
 </table>
 
 ### Hey there, this is Polly Chau 🥰  
@@ -79,8 +79,8 @@
 
 ## Github Stats  
 <table><tr>
-<td>![polly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&theme=dark)</td>
-<td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollycoder&layout=compact&theme=dark)</td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&count_private=true&hide_border=true" align="center" />  </td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollycoder&hide_border=true&layout=compact" align="center" />  </td>
 </table>
 <br/>  
 
