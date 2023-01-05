@@ -1,4 +1,4 @@
-<img src="https://img2.baidu.com/it/u=2575551446,4132883809&fm=253&fmt=auto&app=138&f=JPEG?w=1000&h=445" align="center" height="500"/> 
+<img src="https://pic1.zhimg.com/v2-b0e9425cbdc22002fe83f282c9e77950_b.gif" align="center" height="500"/> 
 
 
 ### Hey there, this is Polly Chau 🥰  
