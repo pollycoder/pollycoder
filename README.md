@@ -84,8 +84,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Hash &lpar;Python&rpar;](https://pollycoder.github.io/posts/hash/)
+- [Draw A UML Class Diagram](https://pollycoder.github.io/posts/uml/)
+- [Full Permutation with Recursion](https://pollycoder.github.io/posts/permutation/)
+- [Bugs I Encountered &lpar;Week 3&rpar;](https://pollycoder.github.io/posts/debug/)
+- [Binary Search Tree &lpar;Python&rpar;](https://pollycoder.github.io/posts/Binary-Search-Tree-Python/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
