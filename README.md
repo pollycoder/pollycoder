@@ -84,6 +84,9 @@
 </table>
 <br/>  
 
+## My Commits
+![](https://raw.githubusercontent.com/pollycoder/pollycoder/main/assets/github-contribution-grid-snake.svg)
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
