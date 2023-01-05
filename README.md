@@ -1,4 +1,6 @@
-<img src="https://pic1.zhimg.com/v2-b0e9425cbdc22002fe83f282c9e77950_b.gif" align="center" height="500"/> 
+<div align="center">
+<img src="https://pic1.zhimg.com/v2-b0e9425cbdc22002fe83f282c9e77950_b.gif" align="center" style="width: 100%" />
+</div>  
 
 
 ### Hey there, this is Polly Chau 🥰  
