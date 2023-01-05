@@ -1,6 +1,7 @@
 <div align="left">
 <img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/cyberpunk.jpeg" align="center" style="width: 50%" />
-</div>  
+</div> <div align="right">
+<img src="https://raw.githubusercontent.com/pollycoder/blog_image/main/avatar/helloworld.png" align="center" style="width: 50%" />
   
 
 ### Hey there, this is Polly Chau 🥰  
@@ -79,8 +80,8 @@
 
 ## Github Stats  
 <table><tr>
-<td>![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=dark)</td>
-<td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=dark)</td>
+<td>![polly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&theme=dark)</td>
+<td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollycoder&layout=compact&theme=dark)</td>
 </table>
 <br/>  
 
