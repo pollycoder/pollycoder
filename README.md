@@ -10,13 +10,10 @@
 - 🔭 I’m currently studying in Tsinghua University TEEP  
   
 
-- 🌱 I’m majorred in Theoretical and Practical Mechanism, minorred in Computer Science 😃  
+- 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS 😃  
   
 
 - ❓ Welcome all the predecessors and hope I could receive advice and guidance from you visitors 🤩  
-  
-
-- ⚡ Fun fact: I like to reorder my code over and over again when I am free, because I think ugly code may spoil my appetite 🤫  
   
 
 <br/>  
