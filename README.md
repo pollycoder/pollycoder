@@ -1,8 +1,5 @@
 # Hey there, this is Polly Chau 🥰  
-<div align="right">
-<img src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj.jpeg" align="center" style="width: 100%" />
-</div>  
-
+<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj.jpeg" width="50%" height="auto" />
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
 - 🔭 I’m currently studying in Tsinghua University TEEP  
@@ -10,7 +7,9 @@
 
 - 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS 😃
 
-- 😃 Contact me: ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+- 😃 Contact me: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pollycoder)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%87%BF-%E5%91%A8-2099842b9/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pollyjoe2003@gmail.com)
   
 
 - ❓ Welcome all the predecessors and hope I could receive advice and guidance from you visitors 🤩  
