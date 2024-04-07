@@ -76,7 +76,7 @@
 
 ## Github Stats  
 <table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />  </td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&count_private=true&hide_border=true&theme=aura" align="center" />  </td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollycoder&hide_border=true&layout=compact&theme=dark" align="center" />  </td>
 </table>
 <br/>  
