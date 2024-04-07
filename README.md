@@ -1,5 +1,5 @@
 # Hey there, this is Polly Chau 🥰  
-<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj.jpeg" width="30%" height="auto" />
+<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj.jpeg" width="20%" height="auto" />
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
@@ -15,8 +15,6 @@
 
 - ❓ Welcome all the predecessors and hope I could receive advice and guidance from you visitors 🤩  
   
-
-<br/>  
 
 ## My Commits
 ![](https://raw.githubusercontent.com/pollycoder/pollycoder/output/github-contribution-grid-snake-dark.svg)
