@@ -43,17 +43,3 @@
 - [Bugs I Encountered &lpar;Week 3&rpar;](https://pollycoder.github.io/posts/debug/)
 - [Binary Search Tree &lpar;Python&rpar;](https://pollycoder.github.io/posts/Binary-Search-Tree-Python/)
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
- 
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
