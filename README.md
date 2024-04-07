@@ -1,9 +1,7 @@
-<div align="center">
+# Hey there, this is Polly Chau 🥰  
+<div align="right">
 <img src="https://img2.baidu.com/it/u=583487997,3481710036&fm=253&fmt=auto&app=138&f=JPEG?w=1029&h=500" align="center" style="width: 100%" />
 </div>  
-
-
-# Hey there, this is Polly Chau 🥰  
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
