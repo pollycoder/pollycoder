@@ -1,5 +1,6 @@
 # Hey there, this is Polly Chau 🥰  
 <img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj.jpeg" width="30%" height="auto" />
+
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
 - 🔭 I’m currently studying in Tsinghua University TEEP  
