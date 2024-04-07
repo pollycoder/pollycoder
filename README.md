@@ -1,6 +1,6 @@
 # Hey there, this is Polly Chau 🥰  
 <div align="right">
-<img src="avatar/dj.jpeg" align="center" style="width: 100%" />
+<img src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj.jpeg" align="center" style="width: 100%" />
 </div>  
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
