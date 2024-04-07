@@ -10,7 +10,9 @@
 - 🔭 I’m currently studying in Tsinghua University TEEP  
   
 
-- 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS 😃  
+- 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS 😃
+
+- I work using ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
 
 - ❓ Welcome all the predecessors and hope I could receive advice and guidance from you visitors 🤩  
@@ -20,8 +22,6 @@
 
 ## My Commits
 ![](https://raw.githubusercontent.com/pollycoder/pollycoder/output/github-contribution-grid-snake-dark.svg)
-
-## My Skill Set  
 
 
 ## Connect with me  
