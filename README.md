@@ -26,8 +26,6 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=pollycoder&show_icons=true&count_private=true&hide_border=true&theme=aura" align="center" />  </td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollycoder&hide_border=true&layout=compact&theme=aura" align="center" />  </td>
 </table>
-<br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
