@@ -1,19 +1,17 @@
-# Hey there, this is Polly Chau 🥰  
+# Hey there, this is Polly Zhou 🥰  
 <img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj3.jpeg" width="32%" height="auto" />
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
 - 🔭 I’m currently studying in Tsinghua University TEEP  
-  
 
-- 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS 😃
+- 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS.
 
 - 😃 Contact me: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pollycoder)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%87%BF-%E5%91%A8-2099842b9/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pollyjoe2003@gmail.com)
   
-
-- ❓ Welcome all the predecessors and hope I could receive advice and guidance from you visitors 🤩  
+- 🤩 Welcome all the predecessors and hope I could receive advice and guidance from you visitors !
   
 
 ## My Commits
