@@ -1,5 +1,5 @@
 # Hey there, this is Polly Chau 🥰  
-<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj3.jpeg" width="35%" height="auto" />
+<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj3.jpeg" width="31%" height="auto" />
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
