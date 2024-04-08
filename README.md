@@ -17,7 +17,7 @@
   
 
 ## My Commits
-![](https://raw.githubusercontent.com/pollycoder/pollycoder/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/pollycoder/pollycoder/output/github-contribution-grid-snake-dark.svg)
 
 ## My Skills
 - ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)![]()
