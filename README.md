@@ -1,5 +1,5 @@
 # Hey there, this is Polly Zhou 🥰  
-<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/dj3.jpeg" width="32%" height="auto" />
+<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/satellite.GIF" width="32%" height="auto" />
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
