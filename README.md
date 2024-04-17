@@ -3,9 +3,9 @@
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
 
-- 🔭 I’m currently studying in Tsinghua University TEEP  
+- 🔭 I’m currently in Tsinghua University TEEP  
 
-- 🌱 I’m majorred in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS.
+- 🌱 I major in Theoretical and Practical Mechanism, my research falls in deep space exploration field, and I'm interested in CS.
 
 - 😃 Contact me: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pollycoder)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%87%BF-%E5%91%A8-2099842b9/)
