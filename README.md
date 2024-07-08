@@ -29,9 +29,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [OCP with Path Constraint](https://pollycoder.github.io/posts/ocp/)
 - [Tutorial for GPOPS-II](https://pollycoder.github.io/posts/GPOPS-II/)
 - [Hash &lpar;Python&rpar;](https://pollycoder.github.io/posts/hash/)
 - [Draw A UML Class Diagram](https://pollycoder.github.io/posts/uml/)
 - [Full Permutation with Recursion](https://pollycoder.github.io/posts/permutation/)
-- [Bugs I Encountered &lpar;Week 3&rpar;](https://pollycoder.github.io/posts/debug/)
 <!-- BLOG-POST-LIST:END -->  
