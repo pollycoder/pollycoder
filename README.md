@@ -1,8 +1,8 @@
 # Hey there, this is Polly Zhou 🥰  
 
 <table><tr>
-<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/hohmann.GIF" width="auto" height="auto" />  </td>
-<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/atk.png" width="70%" height="70%" />  </td>
+<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/hohmann.GIF" width="120%" height="auto" />  </td>
+<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/atk.png" width="auto" height="auto" />  </td>
 </table>
 
 
