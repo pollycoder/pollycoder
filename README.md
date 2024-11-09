@@ -1,6 +1,11 @@
 # Hey there, this is Polly Zhou 🥰  
-<img align="left" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/hohmann.GIF" width="50%" height="50%" />
-<img align="right" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/atk.png" width="50%" height="50%" />
+
+<table><tr>
+<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/hohmann.GIF" width="auto" height="auto" />  </td>
+<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/atk.png" width="auto" height="auto" />  </td>
+</table>
+
+
 
 
 <b><big> You are the No.![Visitor Count](https://profile-counter.glitch.me/pollycoder/count.svg) visitor 😘😘😘 </big></b>
