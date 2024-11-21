@@ -3,6 +3,8 @@
 <table><tr>
 <td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/hohmann.GIF" width="100%" height="100%" />  </td>
 
+<td><img align="center" alt="img" src="https://github.com/pollycoder/blog_image/blob/main/avatar/atk.png" width="100%" height="100%" />  </td>
+
 </table>
 
 
